@@ -1,5 +1,6 @@
 # flydigi.dylib
 飞智手柄、ios 13.4 以上系统插件注入后就可以支持
+![demo](./demo.png)
 # 使用教程
 1. 将`flydigi.dylib`注入游戏
 2. 将注入好的包解压
