@@ -9,4 +9,4 @@
 4. 复制`FZKeymappingHelper.bundle`文件到游戏的根目录中
 5. 游戏`info.plist`添加`NSBluetoothAlwaysUsageDescription`蓝牙权限，值为空即可
 6. 压缩游戏文件为zip，然后重命名为`.ipa`即可
-7. 使用`轻松签`或者`全能签`或者`TrollStore`安装即可
+7. 使用`轻松签`或者`全能签`或者`巨魔TrollStore`，或者使用在线签名网站安装即可
